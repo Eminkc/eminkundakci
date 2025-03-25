@@ -12,7 +12,7 @@
 
 <p align="left">
     <a href="https://www.sap.com/products/abap.html" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/SAP_ABAP-0072C6?style=for-the-badge&logo=sap" alt="abap" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/SAP_ABAP-0072C6?style=for-the-badge&logo=sap" alt="abap" width="80" height="40"/>
     </a>
 </p>
 
